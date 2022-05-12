@@ -1,0 +1,54 @@
+body {
+  padding-left: 2%;
+}
+
+.child {
+  padding-left: 15%;
+  margin: 0;
+}
+
+.title {
+  font-style: oblique;
+}
+
+    div {
+      width: 60%;
+    }
+.extra {
+  padding-left: 10%;
+}
+    p {
+      padding-left: 10%;
+      margin: 0;
+    }
+     
+    ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      font-size: 100%;
+      border-left: black solid;
+    }
+  
+    
+    h3 {
+      padding-left: 2%;
+    }
+   
+  input[type="checkbox"] {
+    margin-left: 5%;
+  }
+
+  li {
+    border-bottom: 1px black solid;
+    
+  }
+
+
+ .collapsed {
+  display: none;
+    }
+
+  
+  li:nth-child(odd) { background:white;}
+  li:nth-child(even) { background:grey;}
